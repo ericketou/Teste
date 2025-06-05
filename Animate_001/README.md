@@ -31,3 +31,7 @@ Explique o propósito do vídeo: divulgação, pessoal, experimento criativo, et
 - Adobe Premiere Pro 2025
 - After Effects
 - Plugin X, LUT Y, etc.
+
+## 🎥 Preview
+
+[▶️ Assista ao vídeo](Assets/1080x1920.mp4)
