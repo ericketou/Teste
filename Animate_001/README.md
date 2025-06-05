@@ -34,4 +34,4 @@ Explique o propósito do vídeo: divulgação, pessoal, experimento criativo, et
 
 ## 🎥 Preview
 
-[▶️ Assista ao vídeo](Assets/2ec61932c88b1b3b906aeeb01a40af88.gif)
+[!▶️ Assista ao vídeo](Assets/2ec61932c88b1b3b906aeeb01a40af88.gif)
